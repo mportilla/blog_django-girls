@@ -1,0 +1,10 @@
+p{
+	color: red;
+}
+.container{
+	padding-left: 100px;
+}
+.alert{
+	height: 100px;
+	font-size: large;
+}
